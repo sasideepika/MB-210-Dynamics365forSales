@@ -1,11 +1,11 @@
 ---
 lab:
     title: 'Lab: Build quotes'
-    module: 'Module 3: From Quote to Order'
+    module: 'Module 3: Manage orders and product catalog with Dynamics 365'
 ---
 
 
-Module 3: From Quote to Orders
+Module 3: Manage orders and product catalog with Dynamics 365
 ==============================
 
 ## Practice Lab 2 – Build quotes
@@ -46,7 +46,7 @@ In this task, you will create an Opportunity and add Products Line Items.
 8.  Above the subgrid, click **+ Add Product.**
 
 9.  Select **[my prefix] DX Power Supply** for **Existing Product**, enter **2** for
-    **Quantity**, and click **Save & Create New**.
+    **Quantity**, and click **Save & close**.
 
 10. Click **+ Add Product** again. Select **[my prefix] Top D. Comm System** for **Existing Product**, enter **1** for
     **Quantity** and click **Save & close**.
@@ -61,11 +61,12 @@ In this task, you will create an Opportunity and add Products Line Items.
 
 14. Change the **Quantity** to **4** and click out of the field. The Discount will now kick in and the
     Volume Discount field will show the discounted value.
+    
+15. Click **Save and Close**.
 
 ### Task 2 – Create Quote
 
 In this task, you will create a Quote from the Opportunity you created in Task
-1.
 
 1.  Go to your **Dynamics 365 Sales Hub** application.
 
@@ -82,9 +83,13 @@ In this task, you will create a Quote from the Opportunity you created in Task
     quantities look as you expected. You can change the quantities and discount
     the price of each line item.
 
-11. Click **Activate Quote**.
+7. Click **Activate Quote**.
 
-12. Click **Create PDF** located on the command bar and select **Print Quote for Customer**. Click **Download.**
+8. Click **Export to PDF** located on the command bar and select **Print Quote for Customer**. Click **Download.**
 
-13. Open the generated document and see what the Quote looks like.
+9. Open the generated document and see what the Quote looks like.
+
+10. Close the PDF.
+
+11. Close the **Export to PDF** window.
 
