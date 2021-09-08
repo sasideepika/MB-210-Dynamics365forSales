@@ -1,11 +1,11 @@
 ---
 lab:
     title: 'Lab: Orders and invoices'
-    module: 'Module 3: From Quote to Orders'
+    module: 'Module 3: Manage orders and product catalog with Dynamics 365'
 ---
 
 
-Module 3: From Quote to Orders
+Module 3: Manage orders and product catalog with Dynamics 365
 ==============================
 
 ## Practice Lab 3 – Orders and invoices
