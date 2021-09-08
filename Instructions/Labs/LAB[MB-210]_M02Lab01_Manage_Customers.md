@@ -1,11 +1,11 @@
 ---
 lab:
     title: 'Lab: Manage Customers'
-    module: 'Module 2: From Lead to Opportunity'
+    module: 'Module 2: Manage leads and opportunities with Dynamics 365 Sales'
 ---
 
 
-Module 2: From Lead to Opportunity
+Module 2: Manage leads and opportunities with Dynamics 365 Sales
 ==================================
 
 ## Practice Lab 2 – Manage customers
@@ -60,7 +60,7 @@ two with company information.
 9.  Enter **[my prefix] Another Lead** for **Title**, **Jack** for **First Name**, **Smith** for
     **Last Name,** **Test Inc**. for **Company**, and click **Save**.
 
-Exercise 3 – Lead Qualifications
+Exercise 2 – Lead Qualifications
 --------------------------------
 
 In this exercise, you will qualify/disqualify leads and see what records will be
@@ -76,8 +76,7 @@ created when a lead goes through the qualification process.
 
 4.  Click **Qualify** from the top menu.
 
-5.  The lead will be **Qualified**, and you will be taken to a new Opportunity
-    record created from the qualified **Lead**. 
+5.  The lead will be **Qualified**. Select **Opportunities** from the left menu to see all qualified leads. Click on the lead you just qualified. 
 
 6.  Locate the **Contact** field. You find that **Jane Doe** is now a
     **Contact** record.
